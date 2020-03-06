@@ -10,4 +10,4 @@ http://www.xuggle.com/xuggler
 where you can use the camera to take a recording file
 
 
-![alt text](https://raw.githubusercontent.com/naor2razon/Webcam/blob/master/IMG/screenshot.PNG)
+![](https://raw.githubusercontent.com/naor2razon/Webcam/blob/master/IMG/screenshot.PNG)
